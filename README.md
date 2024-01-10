@@ -1,3 +1,9 @@
+# About
+
+This is the repo containing the `vibes.json`, used as the source file for a randomly picked positive message for nightbot to send to a twitch channel, based on a schedule.
+
+See more details: https://docs.nightbot.tv/control-panel/timers
+
 # Setup
 
 ## Nightbot
